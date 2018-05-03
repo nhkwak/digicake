@@ -31,7 +31,7 @@
 
  .cake{
    position: relative;
-   width: 50%;
+   width: 60%;
    margin: auto;
    padding-top: 80px;
    margin-bottom: 100px;
@@ -62,6 +62,8 @@
 footer{
   margin-bottom: 20px;
   text-align: center;
-  font-size: 7pt;
+  font-size: 8pt;
   font-family: lato, sans-serif;
+  color: #7C411E;
+  line-height: 1.5;
 }
