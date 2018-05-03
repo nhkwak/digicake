@@ -56,10 +56,12 @@
   font-size: 17px;
   font-family: lato, sans-serif;
   color: #F170A4;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 footer{
   margin-bottom: 20px;
   text-align: center;
+  font-size: 7pt;
+  font-family: lato, sans-serif;
 }
