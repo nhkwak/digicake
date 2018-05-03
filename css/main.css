@@ -43,9 +43,18 @@
   margin: 0;
   margin-bottom: 30px; */
 }
-
+/*
 .text{
   font: lato;
   font-size: 20pt;
   align-items: center;
+} */
+
+#comment{
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+  font-family: lato;
+  color: #F170A4;
+  margin-bottom: 30px;
 }
